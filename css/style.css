@@ -1,0 +1,171 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+
+.container-1{
+    text-align: center;
+    width: 1336px;
+    height: 178px;
+    margin: 0 auto;
+    
+}
+.title-1{
+    margin-top: 80px;
+    padding-bottom: 4px;
+    font-size: 16px;
+    color: #282828;
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.title-2{
+    font-size: 54px;
+    color: #282828;
+    padding-bottom: 16px;
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+
+}
+.text-1{
+    width: 760px;
+    line-height: 35px;
+    color: #5F6980;
+    font-size: 20px;
+  margin-left: 288px;
+   display: flex;
+   font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  
+
+
+}
+.container-2{
+    display: flex;
+    flex-wrap: wrap;
+     justify-content: space-around ;
+    width: 1336px;
+    height: 908px;
+    margin: 0 auto;
+    justify-content: space-between ;
+    
+}
+
+.right-block{
+  width: 310px;
+  height: 430px; 
+}
+.title-5{
+    width: 278px;
+    
+    font-size: 18px;
+    color:#282828 ;
+    padding: 16px 0px 0px 16px;
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+
+
+}
+.title-6{
+    width: 278px;
+    
+    font-size: 14px;
+    color: #3E3E59;
+    padding: 4px 0px 0px 16px;
+    font-family: 'Inter 28pt';
+
+
+
+}
+.sp-1{
+    width: 278px;
+    
+    font-size: 14px;
+    color: #3E3E59;
+    padding: 8px 16px 24px 16px;
+    font-family: 'Inter 28pt';
+
+}
+.section-1{
+    padding: 12px 0px 0px 0px;
+}
+
+
+
+.container-3{
+    margin: 0 auto;
+    display: flex;
+   width: 1440px;
+    height: 460px;
+    background-color: #53535354;
+}
+.box-1{
+    width: 318.05px;
+    height: 221px;
+margin: 108px 0px 131px 164px;
+}
+.text-2{
+    padding-top: 32px ;
+    width: 306.046875px;
+    height: 73px;
+    font-size: 14px;
+    color: #535353;
+    
+}
+.box-2{
+    width: 136px;
+    height: 223px;
+    margin: 108px 0px 129px 70px;
+    
+}
+.box-3{
+    width: 199px;
+    height: 223px;
+     width: 136px;
+    height: 223px;
+    margin: 108px 94px 128px 200px;
+}
+.box-4{
+    width: 107px;
+    height: 127.5px;
+    margin: 108px 148px 225px 94px;
+    
+}
+.box-5{
+    width:80px ;
+    height: 45px;
+    background-color: #054A68;
+    
+    
+}
+.shooter-1{
+    display: block;
+    padding-bottom: 15px;
+    color: #535353;
+    font-size: 14px;
+}
+.title-7{
+    padding-bottom: 71px;
+    color: #1E1E1E;
+    font-size: 20px;
+
+}
+.sp-3{
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 100% ;
+    vertical-align: middle;
+    padding-top: 20px;
+}
+.icon{
+    padding-top: 50px;
+    color: #1E1E1E;
+
+}
